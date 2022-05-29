@@ -31,6 +31,7 @@ can be found in [here](https://github.com/9R/Klipper_KP3S).
 #### Bottom
 ![bottom](imgs/kp3sExpander_bottom.png "Bottom")
 #### Next to original LCD-PCB
-![comparison](imgs/kp3sExpander_comparison.jpg "Next to original LCD-PCB")
+![comparison](imgs/kp3sExpander_comparison_bottom.jpg "Next to original LCD-PCB")
+![comparison](imgs/kp3sExpander_comparison_top.jpg "Next to original LCD-PCB")
 #### Installed in KP3S
 ![bottom](imgs/kp3sExpander_installed.jpg "Installed in KP3S")
